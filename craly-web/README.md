@@ -23,6 +23,14 @@
 
 ---
 
+<br />
+
+<div align="center">
+  <img src="./public/screenshots/hero-preview.jpg" alt="AURA AI Platform Interface" width="100%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.12); box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
+</div>
+
+<br />
+
 </div>
 
 ## 📌 Executive Summary
@@ -50,6 +58,11 @@ With over 1,200+ curated AI tools and models, AURA bridges the gap between chaot
 - **Multi-Vector Matrix**: Direct comparison of pricing, capabilities, target use cases, and feature breakdowns.
 
 ### 🤖 4. AURA AI Copilot with Generative UI (`CralyAiFab`)
+
+<div align="center">
+  <img src="./public/screenshots/chatbot-preview.png" alt="AURA AI Assistant Copilot & Chatbot" width="460px" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 10px 30px rgba(0,0,0,0.6); margin: 15px 0;" />
+</div>
+
 - **Powered by Google Gemini**: Natural language conversational assistant for tailored tool recommendations and custom pipeline generation.
 - **Generative UI Widgets**: Outputs interactive, live UI components inside chat streams:
   - 🛠️ `gen-ui:tool-recommendation`: Interactive recommendation cards.
